@@ -45,3 +45,14 @@
 6. Remove from the oven and let it cool for a few minutes before slicing and serving.
 
 Enjoy your homemade pizza!
+
+# Pros and Cons of Pizza
+
+| Pros                         | Cons                          |
+|------------------------------|-------------------------------|
+| Delicious and satisfying     | Can be high in calories       |
+| Versatile with toppings      | Often high in sodium          |
+| Easy to share with others    | Can be expensive              |
+| Quick and convenient         | May contain unhealthy fats    |
+| Can be made at home          | Not always nutritious         |
+| Great for parties and events | Potential for overeating      |
